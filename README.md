@@ -12,31 +12,23 @@ https://public.tableau.com/app/profile/yash.trivedi3923
 
 <img src= "PPP Summary Dash.png">
 
-## What I Learnt in Tableau :
+## Business Problem :
 
+- To analyze the loan sactioned to different states and sectors by the US small business administration under the Paycheck Protection Program during COVID-19
+- To identify the patterns of the top banks that give out loans.
+- To calculate the total approval percentage of loans both state and sector wise.
 
+# Steps:
 
-  - To Create 3 interactive dashboards and publish it online to share
+- Performed Data cleaning and made it suitable for analysis using SSIS (SQL Server Integration Services)
 
-  - Learnt how to connect to different data sources such as Excel, Google Sheets and Cloud Servers.
+  - Performed ETL using optimized SQL queries.
 
-  - To Create a variety of charts including bar charts, line charts, donut charts, maps, tables and dual axis charts.
+  - Connected the SQL database with tableau and created stored procedures to automate the dashboard.
 
-  - To Create calculated fields including developing IF Statements.
+  - Created a variety of charts including bar charts, maps, tables and dual axis charts.
 
-  - To Create sets, hierarchies and groups.
-
-  - Understood how joins work.
-
-  - Understood Level Of Detail calculations.
-
-  - To Create Parameters
-
-  - Understood how to make use of the analytics pane including using trend lines
-
-  - Understood how to use dashboard actions and create interactive dashboards.
-
-  - Learnt creating a dashboard which updates daily via google sheets.            
+            
 
   
   
