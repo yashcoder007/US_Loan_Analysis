@@ -20,11 +20,11 @@ https://public.tableau.com/app/profile/yash.trivedi3923
 
 # Steps:
 
-- Performed Data cleaning and made it suitable for analysis using SSIS (SQL Server Integration Services)
+- Performed data cleaning to make it suitable for analysis using SSIS (SQL Server Integration Services).
 
 - Performed ETL using optimized SQL queries.
 
-- Connected the SQL database with tableau and created stored procedures to automate the dashboard.
+- Connected the SQL database with tableau and created stored procedures to automate the dashboard using SQL service agent.
 
 - Created a variety of charts including bar charts, maps, tables and dual axis charts.
 
