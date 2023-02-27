@@ -18,7 +18,11 @@ https://public.tableau.com/app/profile/yash.trivedi3923
 - To identify the patterns of the top banks that give out loans.
 - To calculate the total approval percentage of loans both state and sector wise.
 
-# Steps:
+## Dataset
+- Download the SBA Open Data: https://data.sba.gov/dataset/ppp-foia and
+https://www.sba.gov/document/support-...
+
+## Steps:
 
 - Performed data cleaning to make it suitable for analysis using SSIS (SQL Server Integration Services).
 
